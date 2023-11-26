@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=MarioDzA;Full-Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=450&size=22&duration=2000&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=80&lines=MarioDzA;Full-Stack+Developer))](https://git.io/typing-svg)
 
 <h2> Technologies </h2>
 
